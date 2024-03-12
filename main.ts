@@ -3,7 +3,7 @@
 */
 //% color=#ff7f24  icon="\uf0c2" block="wuKong" blockId="wuKong"
 namespace wuKong {
-    const board_address = 0x10
+    const board_address = 0x40
 	/**
 	* LightMode
 	*/
